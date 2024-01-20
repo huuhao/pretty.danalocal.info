@@ -1,4 +1,4 @@
-const WP_URL = 'https://pretty.danalocal.info/';
+const WP_URL = 'https://pretty.danalocal.info';
 if (!WP_URL) {
   throw new Error(`
     Please provide a valid WordPress instance URL.
